@@ -15,7 +15,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essen
 ## 🚀 Resultados
 O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
 
-[LINK PARA O VÍDEO AQUI]()
+[https://youtu.be/Omu9Drm8mL0]()
 
 ## 💭 Reflexão
 "Este projeto demonstrou as possibilidades das IAs Generativas, explorando suas diversas formas de criação, opções de qualidade e os usos potenciais para criar narrativas poderosas e cativantes."
